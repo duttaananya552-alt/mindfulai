@@ -77,7 +77,7 @@ Teenagers today face increasing academic pressure, social stress, and emotional 
 ---
 
 ## 📄 Documentation
-- Article:https://pdflink.to/7a58eb02/
+- Article:https://drive.google.com/file/d/1zH_EcTtoYLNpYIWdraNVGaohYahb1_Ck/view?usp=drive_link  
   
 - Detailed PDF Report:https://drive.google.com/file/d/1eZwaadPP9ZJaYmA4QMYuTEFFRLpwBh4l/view?usp=sharing
 ---
