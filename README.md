@@ -22,7 +22,7 @@ The app provides supportive conversations, journaling features, and mood-trackin
 
  GitHub Repository: https://github.com/duttaananya552-alt/Ananya-Dutta.git  
 📄 Article:https://drive.google.com/file/d/1zH_EcTtoYLNpYIWdraNVGaohYahb1_Ck/view?usp=drive_link  
-📘 Project PDF:https://pdflink.to/f8f7eddd/
+📘 Project PDF:https://drive.google.com/file/d/1eZwaadPP9ZJaYmA4QMYuTEFFRLpwBh4l/view?usp=sharing
 
 ---
 
@@ -79,7 +79,7 @@ Teenagers today face increasing academic pressure, social stress, and emotional 
 ## 📄 Documentation
 - Article:https://pdflink.to/7a58eb02/
   
-- Detailed PDF Report:https://pdflink.to/f8f7eddd/
+- Detailed PDF Report:https://drive.google.com/file/d/1eZwaadPP9ZJaYmA4QMYuTEFFRLpwBh4l/view?usp=sharing
 ---
 
 ## 🚀 Future Improvements
