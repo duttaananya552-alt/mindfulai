@@ -1,10 +1,14 @@
-# mindfulai
+[CALM AMBER.pdf](https://github.com/user-attachments/files/27102557/CALM.AMBER.pdf)# mindfulai
 Student developer & aspiring researcher building AI-powered tools for teenage mental health | Exploring ethical AI in healthcare
 # 👋 Hi, I'm Ananya Dutta
 
 I am a high school student developer and aspiring researcher focused on applying artificial intelligence to improve teenage mental health. My work centers on building AI-powered applications, publishing research-driven articles, and exploring ethical approaches to technology in healthcare.
 
 ---
+APP BUILDING 
+Currently created a temporaray app called "Calm Amber".
+documentation:https://drive.google.com/file/d/1Zaa1Gdh0X-cH2JmrDdrE28J6ly9ZpIT-/view?usp=drive_link
+
 
 ##  Focus Areas
 - Artificial Intelligence & Machine Learning  
