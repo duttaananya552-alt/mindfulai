@@ -1,4 +1,4 @@
-[CALM AMBER.pdf](https://github.com/user-attachments/files/27102557/CALM.AMBER.pdf)# mindfulai
+
 Student developer & aspiring researcher building AI-powered tools for teenage mental health | Exploring ethical AI in healthcare
 # 👋 Hi, I'm Ananya Dutta
 
