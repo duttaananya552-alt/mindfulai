@@ -5,9 +5,9 @@ Student developer & aspiring researcher building AI-powered tools for teenage me
 I am a high school student developer and aspiring researcher focused on applying artificial intelligence to improve teenage mental health. My work centers on building AI-powered applications, publishing research-driven articles, and exploring ethical approaches to technology in healthcare.
 
 ---
-APP BUILDING 
+# App Building
 Currently created a temporaray app called "Calm Amber".
-documentation:https://drive.google.com/file/d/1Zaa1Gdh0X-cH2JmrDdrE28J6ly9ZpIT-/view?usp=drive_link
+Documentation:https://drive.google.com/file/d/1Zaa1Gdh0X-cH2JmrDdrE28J6ly9ZpIT-/view?usp=drive_link
 
 
 ##  Focus Areas
@@ -33,7 +33,7 @@ The app provides supportive conversations, journaling features, and mood-trackin
 ### Teen Stress-Relief Coloring Book
 A published coloring book on Amazon aimed at helping teenagers relax, reduce stress, and practice mindfulness through art.
 
-🔗 Amazon Link:https://a.co/d/gEZFwrl
+🔗 Amazon Link:https://a.co/d/gEZFwrl (currently unavailable)
 
 ---
 
