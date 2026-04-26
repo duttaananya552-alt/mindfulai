@@ -25,7 +25,7 @@ An AI-powered mental health companion app designed specifically for teenagers.
 The app provides supportive conversations, journaling features, and mood-tracking tools in a private and accessible environment.
 
  GitHub Repository: https://github.com/duttaananya552-alt/Ananya-Dutta.git  
-📄 Article:https://drive.google.com/file/d/1zH_EcTtoYLNpYIWdraNVGaohYahb1_Ck/view?usp=drive_link  
+📄 Article:https://drive.google.com/file/d/1xwomrskHZgU5SJUZHI66cFOtMwi38XfI/view?usp=sharing
 📘 Project PDF:https://drive.google.com/file/d/1eZwaadPP9ZJaYmA4QMYuTEFFRLpwBh4l/view?usp=sharing
 
 ---
