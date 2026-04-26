@@ -72,7 +72,7 @@ Teenagers today face increasing academic pressure, social stress, and emotional 
 ## 🛠 Tech Stack
 - Python  
 - HTML / CSS  
-- (Add framework if used)  
+  
 
 ---
 
